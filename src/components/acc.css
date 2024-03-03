@@ -1,0 +1,21 @@
+.createmain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.inp{
+   width: 50%;
+   display: flex;
+   justify-content: center;
+}
+.inpcont{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin-top: 60px;
+}
+.p{
+    width: max-content;
+}
